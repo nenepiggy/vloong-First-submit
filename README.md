@@ -11,3 +11,8 @@
     基于弹性网络得到的结果，主要是在比赛主办方给的参考代码基础上修改的，能达到约13%的平均相对误差。
 5.  withCNN.py
     使用卷积神经网络得到的结果，能达到约9%的平均相对误差。
+![image](https://user-images.githubusercontent.com/37606459/179770375-1646288e-9ad7-41cd-a2e0-25828b4fd76a.png)
+![CNN对比图](https://user-images.githubusercontent.com/37606459/179770524-279255a8-9a42-41d0-a209-47852a19cbf6.png)
+
+所用的Python第三方库有：
+Pytorch, Numpy, Matplotlib, Sklearn, h5py. Scipy, Pandas
